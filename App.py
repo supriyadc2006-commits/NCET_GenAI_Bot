@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-st.set_page_congig("PragyanAI Content Generator",layout="wide")
+st.set_page_config("PragyanAI Content Generator",layout="wide")
 st.title("PragyanAI - Content Generator")
 st.image("134158586650037435.jpg")
 #Get GROQ API Key
